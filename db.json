@@ -1,0 +1,9 @@
+{
+    "Employees" : [
+        {
+            "id" :"1",
+            "name" : "something",
+            "totaltimeWorked" : "34"
+        }
+    ]
+}
